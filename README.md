@@ -1,8 +1,7 @@
-Here’s a clean, professional **README** you can put in your GitHub repo for your React Todo List project. I wrote it based on what your repository contains — a frontend React todo list built with Create React App and functional components to display/manage todos.
 
 ---
 
-# 📌 Todo List App
+## 📌 Todo List App
 
 A simple **Todo List** frontend built with **React.js** to help you learn and practice basic React concepts like components, props, and list rendering. This project displays a list of tasks and uses reusable components to manage UI. ([GitHub][1])
 
@@ -115,6 +114,3 @@ This is your personal project — feel free to update it, refactor it, or add mo
 
 ---
 
-If you want, I can also generate a **live demo link** snippet or add badges (like version, license, or build status) to your README. Just tell me which services you're using.
-
-[1]: https://github.com/Harry-sai/Todo-list "GitHub - Harry-sai/Todo-list: Built a react js todo list Frontend"
