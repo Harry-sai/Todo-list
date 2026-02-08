@@ -1,6 +1,3 @@
-
----
-
 ## 📌 Todo List App
 
 A simple **Todo List** frontend built with **React.js** to help you learn and practice basic React concepts like components, props, and list rendering. This project displays a list of tasks and uses reusable components to manage UI. ([GitHub][1])
